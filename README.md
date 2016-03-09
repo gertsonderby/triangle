@@ -1,5 +1,7 @@
 # Triangle checker
 
+[![Build Status](https://travis-ci.org/gertsonderby/triangle.svg?branch=master)](https://travis-ci.org/gertsonderby/triangle)
+
 This is a simplistic triangle type and sanity checker, as an example for a job
 interview.
 
