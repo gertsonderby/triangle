@@ -3,3 +3,4 @@ node_js:
 language: node_js
 before_script:
 - npm install -g mocha
+script: mocha test/triangle.spec.js
